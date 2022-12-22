@@ -1,7 +1,7 @@
 {
-	"name" : "portalium/portalium-template",
+	"name" : "diginova/portalium-airticket",
 	"description" : "Module Template for Portalium",
-	"type" : "yii2-extension",
+	"type" : "poralium-module",
 	"license": "MIT",
 	"homepage" : "https://portalium.dev",
 	"authors" : [
@@ -12,11 +12,11 @@
 		}
 	],
 	"support" : {
-		"issues" : "https://github.com/portalium/portalium-template/issues"
+		"issues" : "https://github.com/WhChess/portalium-airticket/issues"
 	},
 	"autoload" : {
 		"psr-4" : {
-			"portalium\\template\\" : "src/"
+			"diginova\\airticket\\" : "src/"
 		}
 	}
 }
