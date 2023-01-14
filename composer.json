@@ -1,6 +1,6 @@
 {
 	"name" : "diginova/portalium-airticket",
-	"description" : "Module Template for Portalium",
+	"description" : "Module Airticket for Portalium",
 	"type" : "poralium-module",
 	"license": "MIT",
 	"homepage" : "https://portalium.dev",
